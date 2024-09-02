@@ -13,7 +13,7 @@ This project implements automatic car license plate detection using YOLO v9, and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AbdurRahman22224/YOLO-Car-License-Plate-Detection
+   git clone https://github.com/Henil-Prajapati/YOLO-Car-License-Plate-Detection
    cd YOLO-Car-License-Plate-Detection
    ```
 
